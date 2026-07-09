@@ -1,4 +1,4 @@
-# example
+# example  
 
 Welcome to **example**! This repository is maintained with CommitAgent.
 
